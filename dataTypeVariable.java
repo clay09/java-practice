@@ -7,6 +7,7 @@ public class dataTypeVariable{
 		System.out.println(90000000000000L);
 		char a = '你';
 		System.out.println(a);
+		int a1 = 1;
 	}
 	
 }
